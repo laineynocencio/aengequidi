@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hoophaeth.ego-wedding.com/sitemap.xml
